@@ -6,7 +6,7 @@ Este proyecto es un bot automatizado para el entrenamiento de la habilidad de Ta
 
 ## Descargo de responsabilidad
 
-**El uso de bots en OSRS viola los términos de servicio del juego y puede resultar en la suspensión permanente de tu cuenta.** Este proyecto se comparte únicamente con fines educativos y de archivo. Úsalo bajo tu propio riesgo. El autor original y yo no nos hacemos responsables de cualquier sanción que puedas recibir.
+**El uso de bots en OSRS viola los términos de servicio del juego y puede resultar en la suspensión permanente de tu cuenta.** Este proyecto se comparte únicamente con fines educativos y de archivo. Úsalo bajo tu propio riesgo. El autor no se hace responsable por la sanción que puedas recibir.
 
 ## Requisitos y configuración inicial
 

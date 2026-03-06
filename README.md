@@ -2,7 +2,7 @@
 
 Este proyecto es un bot automatizado para el entrenamiento de la habilidad de Tala (Woodcutting) en Old School RuneScape (OSRS), desarrollado originalmente en AutoHotkey (AHK). El script fue diseñado para ser modular y robusto, interactuando con el cliente del juego (principalmente RuneLite) para cortar árboles de forma cíclica y gestionar el inventario.
 
-# Nota: Debido a que creé este script hace años y no recuerdo como funciona exactamente use IA para crear este readme.md, asi que puede haber imprecisiones.
+## Nota: Debido a que creé este script hace años y no recuerdo como funciona exactamente use IA para crear este readme.md, asi que puede haber imprecisiones.
 
 ## Descargo de responsabilidad
 
